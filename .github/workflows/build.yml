@@ -1,7 +1,7 @@
 name: Build app
 on:
   push:
-    branches: [ "deployment" ]
+    branches: [ "main" ]
 
 jobs:
   build:
